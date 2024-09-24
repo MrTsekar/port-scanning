@@ -23,5 +23,5 @@ To run this script, you need the following:
 
 1. Clone this repository or download the script file:
    ```bash
-   git clone https://github.com/your_username/port-scanner.git
+   git clone https://github.com/MrTsekar/port-scanner.git
    cd port-scanner
