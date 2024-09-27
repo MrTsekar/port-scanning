@@ -22,6 +22,6 @@ To run this script, you need the following:
 ## Installation
 
 1. Clone this repository or download the script file:
-   ```bash
+
    git clone https://github.com/MrTsekar/port-scanner.git
    cd port-scanner
