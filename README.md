@@ -25,3 +25,7 @@ To run this script, you need the following:
 
    git clone https://github.com/MrTsekar/port-scanner.git
    cd port-scanner
+   
+## Usage
+
+usage: portscanner.py [-h] [--start START] [--end END] target
